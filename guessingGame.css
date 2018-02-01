@@ -1,0 +1,25 @@
+
+
+#topSection{
+	background-color: blue;
+	color: white;
+}
+
+
+#bottomSection{
+	background-color: gray;
+}
+
+td{
+	background-color: red;
+	padding: 50px;
+	
+
+
+}
+.center{
+	margin: auto;
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+}
