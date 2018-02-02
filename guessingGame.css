@@ -13,13 +13,14 @@
 td{
 	background-color: red;
 	padding: 50px;
-	
-
-
 }
 .center{
 	margin: auto;
     width: 60%;
     padding: 10px;
     text-align: center;
+}
+
+table{
+    border-spacing: 10px;
 }
