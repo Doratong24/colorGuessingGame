@@ -23,3 +23,7 @@ td{
     padding: 10px;
     text-align: center;
 }
+
+table{
+    border-spacing: 10px;
+}
